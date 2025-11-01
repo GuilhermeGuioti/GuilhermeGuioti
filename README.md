@@ -3,14 +3,6 @@
 
 ---
 
-### 🧠 About Me  
-🎓 Currently studying **Computer Science**  
-⚙️ Focused on **Back-end** development (but also skilled in Front-end)  
-🚀 Learning **Node.js**, **C++**, and improving in **JavaScript/React**  
-📫 Reach me at: **gmoroguioti@gmail.com**
-
----
-
 ### 🧩 Tech Stack
 
 <div align="center">
@@ -71,9 +63,5 @@
 
 ---
 
-### 🎯 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
+
