@@ -28,10 +28,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight" height="180px" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=false" height="150px" />
 </p>
-
 
 
 ---
@@ -64,6 +64,7 @@
 ---
 
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
+
 
 
 
