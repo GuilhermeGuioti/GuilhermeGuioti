@@ -31,22 +31,21 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight"
     width="100%"
-    alt="GitHub Profile Summary"
   />
 </p>
 
-<p align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeGuioti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180em"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeGuioti&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+    height="180"
+    alt="stats graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=false"
+    height="180"
+    alt="languages graph"
   />
-</p>
+</div>
 
 ---
 
@@ -78,6 +77,7 @@
 ---
 
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
+
 
 
 
