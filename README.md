@@ -71,11 +71,3 @@
 </div>
 
 ---
-
-⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
-
-
-
-
-
-
