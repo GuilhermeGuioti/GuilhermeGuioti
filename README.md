@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Guilherme Guioti</h1>
+<h1 align="center">Guilherme Guioti</h1>
 <h3 align="center">💻 I'm a Computer Science student and Developer from Brazil 🇧🇷</h3>
 
 ---
@@ -27,15 +27,16 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" display="flex">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight"
-    width="100%"
+    flex="1"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=false"
     height="180"
     alt="languages graph"
+    flex="2"
   />
 </div>
 
@@ -61,19 +62,11 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.gg/SEU-DISCORD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord"/>
-  </a>
+  <a href="https://wa.me/16988064895" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp"/>
+  </a>  
 </div>
 
 ---
 
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
-
-
-
-
-
-
-
-
