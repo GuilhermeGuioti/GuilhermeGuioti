@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" display="flex">
+<div display="flex">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight"
     flex="1"
@@ -70,3 +70,4 @@
 ---
 
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
+
