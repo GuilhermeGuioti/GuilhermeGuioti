@@ -27,32 +27,26 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- Detalhes do perfil -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight" 
-    alt="GitHub Profile Summary" 
-    width="95%" 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeGuioti&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
   />
+</p>
 
-  <br/><br/>
-
-  <!-- Estatísticas e linguagens lado a lado -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=GuilhermeGuioti&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-      height="180" 
-      alt="GitHub Stats"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=false" 
-      height="180" 
-      alt="Top Languages"
-    />
-  </div>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeGuioti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180em"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuioti&layout=compact&theme=tokyonight&hide_border=true"
+    height="180em"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
@@ -84,6 +78,7 @@
 ---
 
 ⭐️ From [GuilhermeGuioti](https://github.com/GuilhermeGuioti)
+
 
 
 
